@@ -1,3 +1,5 @@
 SSR_GAME_UE5/Content/MetaHumans/Common/Face/Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
 SSR_GAME_UE5/Content/myMaterials/Textures/Texture_output.uasset filter=lfs diff=lfs merge=lfs -text
 SSR_GAME_UE5/Content/MetaHumans/Casper_Liem/Face/Casper_Liem_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+SSR_GAME_UE5/Content/MAP1_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+SSR_GAME_UE5/Content/MAP1.umap filter=lfs diff=lfs merge=lfs -text
