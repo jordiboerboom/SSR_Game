@@ -1,7 +1,7 @@
 DE SSR Game,
 gemaakt in Unreal Engine 5.
 Foto's:
-![alt text](https://github.com/jordiboerboom/SSR_Game/blob/mainPictures/Options1.png?raw=true)
+![alt text](https://github.com/jordiboerboom/SSR_Game/blob/main/Pictures/Options1.png?raw=true)
 ![alt text](https://github.com/jordiboerboom/SSR_Game/blob/main/Pictures/Options2.png?raw=true)
 ![alt text](https://github.com/jordiboerboom/SSR_Game/blob/main/Pictures/progress.png?raw=true)
 ![alt text](https://github.com/jordiboerboom/SSR_Game/blob/main/Pictures/progress2.png?raw=true)
