@@ -4,3 +4,4 @@ Models:
 	Keyboard Model: https://free3d.com/3d-model/keyboard-logitech-988836.html
 	Printer Model: https://sketchfab.com/3d-models/the-canon-printer-aa232d8302ca44ee9f08adfef2f3f894
 	Microwave Model: https://sketchfab.com/3d-models/hafele-microwave-e791771a3236482f812a5e737ee0909f
+	Filing Cabinet Model: https://sketchfab.com/3d-models/file-cabinet-3696af7324054dcbb1d896bef986e597
