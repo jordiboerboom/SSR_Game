@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\main\\ssr_game\\ssr_game_ue5\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsteamsessions\\uht\\advancedsteamsessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\main\\ssr_game\\ssr_game_ue5\\intermediate\\build\\win64\\x64\\ssr_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\main\\ssr_game\\ssr_game_ue5\\plugins\\advancedsteamsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsteamsessions\\definitions.advancedsteamsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

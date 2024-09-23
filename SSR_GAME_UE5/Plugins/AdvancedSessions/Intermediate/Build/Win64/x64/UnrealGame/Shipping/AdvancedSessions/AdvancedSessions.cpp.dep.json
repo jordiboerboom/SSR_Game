@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\main\\ssr_game\\ssr_game_ue5\\plugins\\advancedsessions\\source\\advancedsessions\\private\\advancedsessions.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\main\\ssr_game\\ssr_game_ue5\\intermediate\\build\\win64\\x64\\ssr_game\\shipping\\engine\\sharedpch.engine.project.novalfmtstr.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\main\\ssr_game\\ssr_game_ue5\\plugins\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\advancedsessions\\definitions.advancedsessions.h",
+            "d:\\unreal projects\\main\\ssr_game\\ssr_game_ue5\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\advancedsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
