@@ -67,3 +67,6 @@ SSR_GAME_UE5/DerivedDataCache/*
 
 # Binaries
 SSR_GAME_UE5/Binaries/*
+
+#Plugins
+SSR_GAME_UE5/Plugins/*
